@@ -23,11 +23,12 @@ openGauss开源社区用户委员会（User Committee，简称UC）是openGauss�
 * 肖枫      北京海量数据技术股份有限公司            <xiaofeng@vastdata.com.cn>      # 主席
 * 耿强      天津神舟通用数据技术有限公司            <gengqiang@shentongdata.com>    # 委员
 * 卢娜      北京超图软件股份有限公司                <luna@supermap.com>             # 委员
-* 鲁攀峰    华为技术有限公司                        <lupanfeng@huawei.com>          # 委员
+* 黄贤儒    华为技术有限公司                        <huangxianru@huawei.com>       # 委员
 * 孙培源    云和恩墨(北京)信息技术有限公司          <peiyuan.sun@enmotech.com>       # 委员
-* 王娟      中国移动通信集团有限公司                <wangjuanyj@chinamobile.com>    # 委员
+* 崔凯峰      中国移动通信集团有限公司                13810767894@139.com           # 委员
 * 王晓涛    超聚变数字技术有限公司                  <wangxiaotao@xfusion.com>       # 委员
 * 晏海婷    成都虚谷伟业科技有限公司                <yanHT@xugudb.com>             # 委员
+* 黄楠     天津南大通用数据技术股份有限公司          <huangnan@gbase.cn>              #委员
 
 ### 用户委员会会议召开与决策机制
 
